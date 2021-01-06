@@ -26,6 +26,7 @@
     float: left;
     margin: 3%;
     padding: 2%;
+
 }
 .look img{
 width: 100%;
@@ -54,11 +55,13 @@ color: white;
     border-radius: 5px;
     height: 40%;
     background-color: white;
+    
 }
 .experince-area{
     background-image: url("image/exp-bg.png");
     background-repeat: no-repeat;
-    background-position: left;  
+    background-position: left; 
+    
 }
 #color{
     border-left: 7px solid;
