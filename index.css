@@ -5,7 +5,7 @@
  h1{
      font-size: 50px;
  }
- .name{
+ .orange{
      color: orange;
  }
  h3{
@@ -43,4 +43,23 @@ color: white;
     background-repeat: no-repeat;
     background-position: right;
 }
-
+.singel-expiriance{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 40%;
+}
+.experince-area{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;  
+}
+#color{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
